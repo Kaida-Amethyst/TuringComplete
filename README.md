@@ -11,3 +11,9 @@
 ![and](https://b3logfile.com/siyuan/1644568593533/assets/and-20240606220821-x77c6ds.png)
 
 -----------------------
+
+## Or gate
+
+![or](https://b3logfile.com/siyuan/1644568593533/assets/or-20240606220830-zvz4lr0.png)
+
+-------------------------
