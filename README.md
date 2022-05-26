@@ -17,3 +17,9 @@
 ![or](https://b3logfile.com/siyuan/1644568593533/assets/or-20240606220830-zvz4lr0.png)
 
 -------------------------
+
+## Nor gate
+
+![nor](https://b3logfile.com/siyuan/1644568593533/assets/nor-20240606220840-4wdicyz.png)
+
+-------------------------
