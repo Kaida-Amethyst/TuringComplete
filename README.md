@@ -23,3 +23,9 @@
 ![nor](https://b3logfile.com/siyuan/1644568593533/assets/nor-20240606220840-4wdicyz.png)
 
 -------------------------
+
+## Always on
+
+![alwayson](https://b3logfile.com/siyuan/1644568593533/assets/alwayson-20240606220848-ue7s9ln.png)
+
+-------------------------
