@@ -29,3 +29,9 @@
 ![alwayson](https://b3logfile.com/siyuan/1644568593533/assets/alwayson-20240606220848-ue7s9ln.png)
 
 -------------------------
+
+## Second tick
+
+![second_tick](https://b3logfile.com/siyuan/1644568593533/assets/second_tick-20240606220901-v7of2uj.png)
+
+-------------------------
