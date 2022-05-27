@@ -35,3 +35,9 @@
 ![second_tick](https://b3logfile.com/siyuan/1644568593533/assets/second_tick-20240606220901-v7of2uj.png)
 
 -------------------------
+
+## Xor gate
+
+![xor](https://b3logfile.com/siyuan/1644568593533/assets/xor-20240606220914-e2zs21t.png)
+
+-------------------------
