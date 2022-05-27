@@ -59,3 +59,9 @@
 ![xnor](https://b3logfile.com/siyuan/1644568593533/assets/xnor-20240606220956-4mbnqwj.png)
 
 -------------------------
+
+## Odd number of signal
+
+![odd_number_of_signal](https://b3logfile.com/siyuan/1644568593533/assets/odd_number_of_signal-20240606221006-1cdow7n.png)
+
+-------------------------
