@@ -47,3 +47,9 @@
 ![bigger_or](https://b3logfile.com/siyuan/1644568593533/assets/bigger_or-20240606220923-cmdng5d.png)
 
 -------------------------
+
+## Bigger and
+
+![bigger_and](https://b3logfile.com/siyuan/1644568593533/assets/bigger_and-20240606220931-8t850f5.png)
+
+-------------------------
