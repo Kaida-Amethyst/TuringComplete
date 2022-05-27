@@ -65,3 +65,9 @@
 ![odd_number_of_signal](https://b3logfile.com/siyuan/1644568593533/assets/odd_number_of_signal-20240606221006-1cdow7n.png)
 
 -------------------------
+
+## Double trouble
+
+![double_trouble](https://b3logfile.com/siyuan/1644568593533/assets/double_trouble-20240606221015-z7bz87v.png)
+
+-------------------------
