@@ -41,3 +41,9 @@
 ![xor](https://b3logfile.com/siyuan/1644568593533/assets/xor-20240606220914-e2zs21t.png)
 
 -------------------------
+
+## Bigger or
+
+![bigger_or](https://b3logfile.com/siyuan/1644568593533/assets/bigger_or-20240606220923-cmdng5d.png)
+
+-------------------------
