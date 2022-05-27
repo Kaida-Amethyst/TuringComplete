@@ -53,3 +53,9 @@
 ![bigger_and](https://b3logfile.com/siyuan/1644568593533/assets/bigger_and-20240606220931-8t850f5.png)
 
 -------------------------
+
+## XNOR
+
+![xnor](https://b3logfile.com/siyuan/1644568593533/assets/xnor-20240606220956-4mbnqwj.png)
+
+-------------------------
