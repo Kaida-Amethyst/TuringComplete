@@ -71,3 +71,9 @@
 ![double_trouble](https://b3logfile.com/siyuan/1644568593533/assets/double_trouble-20240606221015-z7bz87v.png)
 
 -------------------------
+
+## Half Adder
+
+![half_adder](https://b3logfile.com/siyuan/1644568593533/assets/half_adder-20240606221026-atnpv36.png)
+
+-------------------------
