@@ -77,3 +77,9 @@
 ![half_adder](https://b3logfile.com/siyuan/1644568593533/assets/half_adder-20240606221026-atnpv36.png)
 
 -------------------------
+
+## Counting Signals
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221108235133-l95amil.png)
+
+-------------------------
