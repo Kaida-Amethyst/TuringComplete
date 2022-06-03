@@ -101,3 +101,9 @@
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109225041-8zalzm5.png)
 
 -------------------------
+
+## Input Selector
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109225431-9c3ns81.png)
+
+-------------------------
