@@ -95,3 +95,9 @@
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109224357-p6o8842.png)
 
 -------------------------
+
+## Adding Bytes
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109225041-8zalzm5.png)
+
+-------------------------
