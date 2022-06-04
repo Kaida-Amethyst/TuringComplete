@@ -107,3 +107,9 @@
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109225431-9c3ns81.png)
 
 -------------------------
+
+## Signed Negator
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109230115-ym2l9g8.png)
+
+-------------------------
