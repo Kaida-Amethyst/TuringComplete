@@ -119,3 +119,9 @@
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109230624-tclbrl0.png)
 
 -------------------------
+
+## Saving Gracefully
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109232642-b2rh1i7.png)
+
+-------------------------
