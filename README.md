@@ -131,3 +131,9 @@
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109233639-73lc37n.png)
 
 -------------------------
+
+## 1 Bit Decoder
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221109233756-4v3ngas.png)
+
+-------------------------
