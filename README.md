@@ -168,14 +168,3 @@
 
 -------------------------
 
-
-## 小盒子
-
-![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221113140524-0qqe4i4.png)
-
--------------------------
-## 小盒子
-
-![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221113140524-0qqe4i4.png)
-
--------------------------
