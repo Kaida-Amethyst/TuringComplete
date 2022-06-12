@@ -168,3 +168,9 @@
 
 -------------------------
 
+## Registers
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221113140608-mo0721k.png)
+
+-------------------------
+
