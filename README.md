@@ -193,3 +193,9 @@ Only Need to Modify one place
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221113175150-l835mil.png)
 
 -------------------------
+
+## Immediate Value
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221113234300-sgib28i.png)
+
+-------------------------
