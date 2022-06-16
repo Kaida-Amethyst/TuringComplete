@@ -211,3 +211,9 @@ Only Need to Modify one place
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221114222619-14o4inj.png)
 
 -------------------------
+
+## Calibrating Laser Cannons
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221114223706-yqmdyd4.png)
+
+-------------------------
