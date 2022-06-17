@@ -223,3 +223,9 @@ Only Need to Modify one place
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221114224914-setfo1m.png)
 
 -------------------------
+
+## Storage Cracker
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221114232255-imjdzec.png)
+
+-------------------------
