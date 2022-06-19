@@ -273,3 +273,69 @@ if_eq_0
 ```
 
 -------------------------
+
+## The Maze
+
+```plaintext
+const tr = 2
+const tl = 0
+const hd = 1
+3
+reg0_to_reg2
+label loop
+# jeq3
+in2reg1
+sub_1_2
+enter
+jeq0
+in2reg3
+head
+jeq0
+turnLeft
+jgt0
+label head
+hd
+reg0_to_out
+tl
+reg0_to_out
+in2reg3
+loop
+jeq0
+tr
+reg0_to_out
+loop
+jmp
+label turnLeft
+tl
+reg0_to_out
+in2reg3
+loop
+jeq0
+tr
+reg0_to_out
+reg0_to_out
+loop
+jmp
+label enter
+const en = 4
+en
+reg0_to_out
+# while true:
+#   if input == 3
+#     enter
+#   if input == 0
+#     head
+#     turn_left
+#     continue
+#   if input == 1
+#     turn_left
+#     get_input
+#     if input == 0
+#       continue
+#     else
+#       turn_right
+#       turn_right
+```
+
+
+-------------------------
