@@ -229,3 +229,47 @@ Only Need to Modify one place
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221114232255-imjdzec.png)
 
 -------------------------
+
+## Special Invasion
+
+```plaintext
+1
+reg0_to_out
+reg0_to_out
+reg0_to_out
+reg0_to_out
+reg0_to_out
+reg0_to_out
+0
+reg0_to_out
+3
+reg0_to_out
+5
+reg0_to_out
+reg0_to_out
+reg0_to_out
+reg0_to_out
+0
+reg0_to_out
+reg0_to_out
+3
+reg0_to_reg1
+label wait1
+wait1
+reg1_to_out
+in2reg3
+if_eq_0
+5
+reg0_to_out
+reg0_to_out
+reg0_to_out
+reg0_to_out
+0
+reg0_to_out
+reg0_to_out
+wait1
+in2reg3
+if_eq_0
+```
+
+-------------------------
