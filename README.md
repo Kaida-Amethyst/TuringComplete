@@ -337,5 +337,10 @@ reg0_to_out
 #       turn_right
 ```
 
+-------------------------
+
+## Byte Constant
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221117230028-5s2guz6.png)
 
 -------------------------
