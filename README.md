@@ -344,3 +344,19 @@ reg0_to_out
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221117230028-5s2guz6.png)
 
 -------------------------
+
+## XOR
+
+```plaintext
+in2reg1
+in2reg2
+or_1_2
+reg3_to_reg4
+nand_1_2
+reg3_to_reg1
+reg4_to_reg2
+and_1_2
+reg3_to_out
+```
+
+-------------------------
