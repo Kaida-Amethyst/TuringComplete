@@ -360,3 +360,9 @@ reg3_to_out
 ```
 
 -------------------------
+
+## Equality
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221117230606-b689qvm.png)
+
+-------------------------
