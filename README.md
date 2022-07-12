@@ -384,3 +384,9 @@ reg3_to_out
 ![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221208225641-c4xtalf.png)
 
 -------------------------
+
+## Wide Instruction
+
+![image](https://b3logfile.com/siyuan/1644568593533/assets/image-20221210141920-ouxi4x4.png)
+
+-------------------------
