@@ -1,5 +1,7 @@
 # Turing Complete Game
 
+*Turing Complete* is a steam game which allows you to build a complex circuit using a simple NAND. And here is my solutions.
+
 ## Not Gate
 
 ![not](https://b3logfile.com/siyuan/1644568593533/assets/not-20240606220804-s6feszy.png)
